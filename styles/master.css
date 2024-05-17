@@ -1,0 +1,48 @@
+.seccionPerfil{
+    border: 2px solid black ;
+    border-radius: 100px;
+    background-color: blue;
+}
+
+p {
+    position: sticky;
+    font-family: "Jacquard 12", system-ui;
+    font-weight: 400%;
+    font-style: normal;
+}
+
+.fotoPerfil {
+    width: 20%; 
+    height: 10%;
+    border-radius: 100pc;
+    box-shadow: 20px 20px 1000px 30px rgb(61, 15, 15),10px 10px 20px black ;
+
+
+}
+
+
+
+* {
+    background-blend-mode:darken;
+    background-color: rgb(220, 228, 239);
+}
+
+ul li {
+    color:rgb(109, 79, 149)
+}
+
+h1{
+font-family: "Jacquard 12", system-ui;
+font-size: 500%;
+}
+
+h2{
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+.japones {
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <150>;
+    font-style: normal;
+}
